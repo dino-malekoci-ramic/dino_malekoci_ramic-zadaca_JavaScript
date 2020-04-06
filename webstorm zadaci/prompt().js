@@ -1,0 +1,1 @@
+prompt("Unesite vašu dob", "00");
